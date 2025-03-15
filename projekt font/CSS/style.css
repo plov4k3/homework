@@ -1,0 +1,23 @@
+.some-text{
+    font-family: "Open Sans","Arial";
+    font-style: italic;
+    font-size: 300;
+}
+.left-text{
+    text-align: left;
+    text-decoration: line-through;
+}
+.centr-text{
+    text-align: center;
+    text-transform: uppercase;
+}
+.long-distance{
+    word-spacing: 30px;
+    text-shadow: 50;
+    text-decoration:wavy overline;
+    text-shadow: 1px 1px 1px #4f28bb;
+}
+.letter{
+    letter-spacing: 5px;
+    text-decoration: double underline;
+}
