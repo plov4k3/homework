@@ -1,0 +1,54 @@
+:root {
+    --FONNT: 50px;
+    --bd-radius: 5vw;
+    --indentation: 0 auto;
+}
+
+body {
+    background: #deff84;
+    color: #52a183;
+    padding: 2VW;
+    font-family: sans-serif;
+}
+
+.section {
+    --accent-color: #2c3f63;
+
+    max-width: vw;
+    margin: var(--indentation);
+    background: var(--accent-color);
+    padding: 2VW;
+    border-radius: var(--bd-radius);
+    text-align: center;
+    overflow: hidden;
+    border: 5px solid green;
+    font-size: var(--FONNT);
+}
+
+.title {
+    --collor: #5900ff;
+    font-size: 30px;
+    margin-bottom: 1.8vw;
+    background: var(--collor);
+    padding: 2vw;
+    margin: -3vw -4vw 4vw;
+}
+
+.text {
+    margin-bottom: 2vw;
+    font-size: var(--FONNT);
+}
+
+.button {
+    --accent-color: #b10909;
+
+
+    font-size: var(--FONNT);
+    padding: 1.5vw;
+    background: var(--accent-color);
+    border-radius: .9vw;
+    text-align: center;
+    max-width: 20vw;
+    margin: var(--indentation);
+    text-transform: uppercase;
+}
