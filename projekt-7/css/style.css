@@ -1,0 +1,33 @@
+body{
+    background: #1a0909;
+}
+p{
+    color: #fff;
+}
+
+
+
+
+
+.block {
+    position: fixed;
+    top: 238px;
+    left: 336px;
+    right: 50px;
+    bottom: 30px;
+    max-width: 320px;
+    max-height: 105px;
+    background: #ca9797;
+    color: #ca9797;
+    border-radius: 3px;
+}
+
+.block-2 {
+    position: relative;
+    top: -41px;
+    left: 29px;
+    width: 50px;
+    height: 50px;
+    background: #ea2a2a;
+    border-radius: 50px;
+}
