@@ -1,0 +1,62 @@
+body {
+	font-family: sans-serif;
+
+}
+
+.form {
+    background-color: #df6060;
+    color: #6bd1eb;
+	border: 1px solid #000000;
+	border-radius: 10px;
+	font-weight: 600;
+	display: inline-block;
+	padding: 15px 70px 5px 10px;
+
+
+
+}
+
+.form-window{
+
+}
+
+.form-cell {
+	display: block;
+	margin: 10px;
+}
+
+.form-info {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.form-data {
+	border: 1px solid #000000;
+	border-radius: 5px;
+	padding: 5px 40px 5px 10px;
+}
+
+.form-grop{
+	border: none;
+	padding: 0px;
+}
+
+.message {
+	border: 1px solid #000000;
+	border-radius: 5px;
+	padding: 5px 40px 5px 10px;
+    resize: vertical;
+    min-height: 30px;
+    max-height: 100px;
+}
+
+.checkbox{
+    cursor: pointer;
+}
+
+.button{
+    cursor: pointer;
+	border: none;
+	border-radius: 6px;
+	padding: 5px 15px;
+}
